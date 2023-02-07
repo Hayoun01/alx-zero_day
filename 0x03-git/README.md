@@ -1,3 +1,4 @@
 # 0x03-git
 
 Git is an essential tool for software engineering students as it provides a robust platform for version control and collaboration during software development. By using Git, students can easily manage different versions of their code, track changes made by themselves or other team members, and experiment with new features and ideas without affecting the main codebase. Additionally, Git allows students to contribute to open-source projects, which helps them to build a portfolio and gain real-world experience. Overall, learning and using Git is an important skill for software engineering students and is widely used in the industry.
+By: @Hayoun01
